@@ -1,4 +1,4 @@
-# Cafe Green Restuarent Management System
+# Cafe Green Restuarant Management System
 
 Café Green is a popular restaurant situated in the center of the Colombo district. The café is daily 
 visited by many customers. They provide services such as dine-in, takeaway and delivery of 
