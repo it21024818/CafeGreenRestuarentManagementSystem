@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "Sri Lankan",
+    "image": "https://imagevars.gulfnews.com/2019/02/03/SU_190204_Sri_Lanka_food_lead_resources1_16a4a1581c5_large.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Chinese",
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F19%2F2017%2F08%2F17%2FGettyImages-545286388-2000.jpg&q=60"
+  },
+  {
+    "id": 3,
+    "name": "Japanese",
+    "image": "https://www.tastingtable.com/img/gallery/20-japanese-dishes-you-need-to-try-at-least-once/intro-1664219638.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Thai",
+    "image": "https://travelandleisureasia.com/wp-content/uploads/2021/10/Thai-Dishes.png"
+  },
+  {
+    "id": 5,
+    "name": "Indian",
+    "image": "https://www.blueosa.com/wp-content/uploads/2020/01/the-best-top-10-indian-dishes.jpg"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "name": "Biriyani",
+    "onSale": false,
+    "tags": ["Indian", "Meal"],
+    "image": "https://images.aws.nestle.recipes/resized/326055faa522e6e388c528528430a8f9_chicken-biriyani_744_419.jpg",
+    "description": "Biryani is a mixed rice dish originating among the Muslims of the Indian subcontinent. It is made with Indian spices, rice, and usually some type of meat (chicken, beef, goat, lamb, prawn, fish) or in some cases without any meat, and sometimes, in addition, eggs and potatoes.",
+    "price": 4500,
+    "salePrice": null,
+    "ratings": 4.0
+  },
+  {
+    "id": 2,
+    "name": "Sushi",
+    "onSale": true,
+    "tags": ["Japanese", "Meat"],
+    "image": "https://img.theculturetrip.com/768x/smart/wp-content/uploads/2019/08/cb3c0x-2.jpg",
+    "description": "Sushi is traditionally made with medium-grain white rice, though it can be prepared with brown rice or short-grain rice. are vegetarian.",
+    "price": 5000,
+    "salePrice": null,
+    "ratings": 4.5
+  },
+  {
+    "id": 3,
+    "name": "Cheese Pizza",
+    "onSale": true,
+    "tags": ["Italian", "Pizza"],
+    "image": "https://static.toiimg.com/thumb/53110049.cms?width=1200&height=900",
+    "description": "Pizza is a dish of Italian origin consisting of a usually round, flat base of leavened wheat-based dough topped with tomatoes, cheese, and often various other ingredients (such as various types of sausage, anchovies, mushrooms, onions, olives, vegetables, meat, ham, etc.), which is then baked at a high temperature.",
+    "price": 2800,
+    "salePrice": null,
+    "ratings": 4.5
+  },
+  {
+    "id": 4,
+    "name": "Chicken Kottu",
+    "onSale": false,
+    "tags": ["Sri Lankan", "Rotti"],
+    "image": "https://seashinebeach.com/wp-content/uploads/2020/08/cheese-kottu.png",
+    "description": "There is a reason why Chicken Kottu Roti is insanely popular in Sri Lanka! Chopped flatbread mixed and mashed together with chicken and vegetables and lots of aromatic spices, this chicken kottu roti recipe is as delicious as it is comforting, and it also works splendidly as an anti-hangover meal!",
+    "price": 800,
+    "salePrice": null,
+    "ratings": 4
+  },
+  {
+    "id": 5,
+    "name": "Baked Feta Pasta",
+    "onSale": true,
+    "tags": ["Italian", "Pasta"],
+    "image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2021/02/05/Baked-Feta-Pasta-4_s4x3.jpg.rend.hgtvcom.406.325.suffix/1615916524567.jpeg",
+    "description": "As a category in Italian cuisine, both fresh and dried pastas are classically used in one of three kinds of prepared dishes: as pasta asciutta (or pastasciutta), cooked pasta is plated and served with a complementary sauce or condiment",
+    "price": 1500,
+    "salePrice": null,
+    "ratings": 3.5
+  }
+]

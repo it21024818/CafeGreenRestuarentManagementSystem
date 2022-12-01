@@ -1,0 +1,188 @@
+[
+  {
+    "name": "adminEmpDashboard",
+    "path": "/adminEmpDashboard",
+    "component": "C:\\\\Users\\\\Dinuka\\\\Desktop\\\\fast-vue\\\\app\\\\pages\\\\adminEmpDashboard.vue",
+    "chunkName": "pages/adminEmpDashboard"
+  },
+  {
+    "name": "Calender",
+    "path": "/Calender",
+    "component": "C:\\\\Users\\\\Dinuka\\\\Desktop\\\\fast-vue\\\\app\\\\pages\\\\Calender.vue",
+    "chunkName": "pages/Calender"
+  },
+  {
+    "name": "cardDetails",
+    "path": "/cardDetails",
+    "component": "C:\\\\Users\\\\Dinuka\\\\Desktop\\\\fast-vue\\\\app\\\\pages\\\\cardDetails.vue",
+    "chunkName": "pages/cardDetails"
+  },
+  {
+    "name": "cart",
+    "path": "/cart",
+    "component": "C:\\\\Users\\\\Dinuka\\\\Desktop\\\\fast-vue\\\\app\\\\pages\\\\cart\\\\index.vue",
+    "chunkName": "pages/cart/index"
+  },
+  {
+    "name": "CustomerDashboard",
+    "path": "/CustomerDashboard",
+    "component": "C:\\\\Users\\\\Dinuka\\\\Desktop\\\\fast-vue\\\\app\\\\pages\\\\CustomerDashboard.vue",
+    "chunkName": "pages/CustomerDashboard"
+  },
+  {
+    "name": "CustomerDetails",
+    "path": "/CustomerDetails",
+    "component": "C:\\\\Users\\\\Dinuka\\\\Desktop\\\\fast-vue\\\\app\\\\pages\\\\CustomerDetails.vue",
+    "chunkName": "pages/CustomerDetails"
+  },
+  {
+    "name": "CustomerFeedback",
+    "path": "/CustomerFeedback",
+    "component": "C:\\\\Users\\\\Dinuka\\\\Desktop\\\\fast-vue\\\\app\\\\pages\\\\CustomerFeedback.vue",
+    "chunkName": "pages/CustomerFeedback"
+  },
+  {
+    "name": "EmployeeAdmin",
+    "path": "/EmployeeAdmin",
+    "component": "C:\\\\Users\\\\Dinuka\\\\Desktop\\\\fast-vue\\\\app\\\\pages\\\\EmployeeAdmin.vue",
+    "chunkName": "pages/EmployeeAdmin"
+  },
+  {
+    "name": "EventForm",
+    "path": "/EventForm",
+    "component": "C:\\\\Users\\\\Dinuka\\\\Desktop\\\\fast-vue\\\\app\\\\pages\\\\EventForm.vue",
+    "chunkName": "pages/EventForm"
+  },
+  {
+    "name": "Expenditure",
+    "path": "/Expenditure",
+    "component": "C:\\\\Users\\\\Dinuka\\\\Desktop\\\\fast-vue\\\\app\\\\pages\\\\Expenditure.vue",
+    "chunkName": "pages/Expenditure"
+  },
+  {
+    "name": "Income",
+    "path": "/Income",
+    "component": "C:\\\\Users\\\\Dinuka\\\\Desktop\\\\fast-vue\\\\app\\\\pages\\\\Income.vue",
+    "chunkName": "pages/Income"
+  },
+  {
+    "name": "Login",
+    "path": "/Login",
+    "component": "C:\\\\Users\\\\Dinuka\\\\Desktop\\\\fast-vue\\\\app\\\\pages\\\\Login.vue",
+    "chunkName": "pages/Login"
+  },
+  {
+    "name": "Menu",
+    "path": "/Menu",
+    "component": "C:\\\\Users\\\\Dinuka\\\\Desktop\\\\fast-vue\\\\app\\\\pages\\\\Menu.vue",
+    "chunkName": "pages/Menu"
+  },
+  {
+    "name": "MenuCust",
+    "path": "/MenuCust",
+    "component": "C:\\\\Users\\\\Dinuka\\\\Desktop\\\\fast-vue\\\\app\\\\pages\\\\MenuCust.vue",
+    "chunkName": "pages/MenuCust"
+  },
+  {
+    "name": "Newrequirements",
+    "path": "/Newrequirements",
+    "component": "C:\\\\Users\\\\Dinuka\\\\Desktop\\\\fast-vue\\\\app\\\\pages\\\\Newrequirements.vue",
+    "chunkName": "pages/Newrequirements"
+  },
+  {
+    "name": "Order",
+    "path": "/Order",
+    "component": "C:\\\\Users\\\\Dinuka\\\\Desktop\\\\fast-vue\\\\app\\\\pages\\\\Order.vue",
+    "chunkName": "pages/Order"
+  },
+  {
+    "name": "Orders",
+    "path": "/Orders",
+    "component": "C:\\\\Users\\\\Dinuka\\\\Desktop\\\\fast-vue\\\\app\\\\pages\\\\Orders.vue",
+    "chunkName": "pages/Orders"
+  },
+  {
+    "name": "Payment",
+    "path": "/Payment",
+    "component": "C:\\\\Users\\\\Dinuka\\\\Desktop\\\\fast-vue\\\\app\\\\pages\\\\Payment.vue",
+    "chunkName": "pages/Payment"
+  },
+  {
+    "name": "paymentSuccess",
+    "path": "/paymentSuccess",
+    "component": "C:\\\\Users\\\\Dinuka\\\\Desktop\\\\fast-vue\\\\app\\\\pages\\\\paymentSuccess.vue",
+    "chunkName": "pages/paymentSuccess"
+  },
+  {
+    "name": "Planning",
+    "path": "/Planning",
+    "component": "C:\\\\Users\\\\Dinuka\\\\Desktop\\\\fast-vue\\\\app\\\\pages\\\\Planning.vue",
+    "chunkName": "pages/Planning"
+  },
+  {
+    "name": "products",
+    "path": "/products",
+    "component": "C:\\\\Users\\\\Dinuka\\\\Desktop\\\\fast-vue\\\\app\\\\pages\\\\products\\\\index.vue",
+    "chunkName": "pages/products/index"
+  },
+  {
+    "name": "Profit",
+    "path": "/Profit",
+    "component": "C:\\\\Users\\\\Dinuka\\\\Desktop\\\\fast-vue\\\\app\\\\pages\\\\Profit.vue",
+    "chunkName": "pages/Profit"
+  },
+  {
+    "name": "Signup",
+    "path": "/Signup",
+    "component": "C:\\\\Users\\\\Dinuka\\\\Desktop\\\\fast-vue\\\\app\\\\pages\\\\Signup.vue",
+    "chunkName": "pages/Signup"
+  },
+  {
+    "name": "Stocks",
+    "path": "/Stocks",
+    "component": "C:\\\\Users\\\\Dinuka\\\\Desktop\\\\fast-vue\\\\app\\\\pages\\\\Stocks.vue",
+    "chunkName": "pages/Stocks"
+  },
+  {
+    "name": "supplyCharts",
+    "path": "/supplyCharts",
+    "component": "C:\\\\Users\\\\Dinuka\\\\Desktop\\\\fast-vue\\\\app\\\\pages\\\\supplyCharts.vue",
+    "chunkName": "pages/supplyCharts"
+  },
+  {
+    "name": "supplyTransaction",
+    "path": "/supplyTransaction",
+    "component": "C:\\\\Users\\\\Dinuka\\\\Desktop\\\\fast-vue\\\\app\\\\pages\\\\supplyTransaction.vue",
+    "chunkName": "pages/supplyTransaction"
+  },
+  {
+    "name": "Transaction",
+    "path": "/Transaction",
+    "component": "C:\\\\Users\\\\Dinuka\\\\Desktop\\\\fast-vue\\\\app\\\\pages\\\\Transaction.vue",
+    "chunkName": "pages/Transaction"
+  },
+  {
+    "name": "vendorInfo",
+    "path": "/vendorInfo",
+    "component": "C:\\\\Users\\\\Dinuka\\\\Desktop\\\\fast-vue\\\\app\\\\pages\\\\vendorInfo.vue",
+    "chunkName": "pages/vendorInfo"
+  },
+  {
+    "name": "cart-confirm",
+    "path": "/cart/confirm",
+    "component": "C:\\\\Users\\\\Dinuka\\\\Desktop\\\\fast-vue\\\\app\\\\pages\\\\cart\\\\confirm.vue",
+    "chunkName": "pages/cart/confirm"
+  },
+  {
+    "name": "products-id",
+    "path": "/products/:id",
+    "component": "C:\\\\Users\\\\Dinuka\\\\Desktop\\\\fast-vue\\\\app\\\\pages\\\\products\\\\_id.vue",
+    "chunkName": "pages/products/_id"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\Dinuka\\\\Desktop\\\\fast-vue\\\\app\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]

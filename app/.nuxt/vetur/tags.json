@@ -1,0 +1,125 @@
+{
+  "AddCardForm": {
+    "description": "Auto imported from components/addCardForm.vue"
+  },
+  "AddEmpForm": {
+    "description": "Auto imported from components/addEmpForm.vue"
+  },
+  "AddReqForm": {
+    "description": "Auto imported from components/addReqForm.vue"
+  },
+  "CardTable": {
+    "description": "Auto imported from components/cardTable.vue"
+  },
+  "ConfirmPayment": {
+    "description": "Auto imported from components/ConfirmPayment.vue"
+  },
+  "CusInfoTable": {
+    "description": "Auto imported from components/CusInfoTable.vue"
+  },
+  "CustomerFbForm": {
+    "description": "Auto imported from components/customerFbForm.vue"
+  },
+  "CustomerFbTable": {
+    "description": "Auto imported from components/customerFbTable.vue"
+  },
+  "Dashboard": {
+    "description": "Auto imported from components/dashboard.vue"
+  },
+  "EmpInfo": {
+    "description": "Auto imported from components/EmpInfo.vue"
+  },
+  "EventTable": {
+    "description": "Auto imported from components/EventTable.vue"
+  },
+  "ExpensesTable": {
+    "description": "Auto imported from components/expensesTable.vue"
+  },
+  "FeedbacksArea": {
+    "description": "Auto imported from components/feedbacksArea.vue"
+  },
+  "Footer": {
+    "description": "Auto imported from components/Footer.vue"
+  },
+  "Form": {
+    "description": "Auto imported from components/Form.vue"
+  },
+  "Header": {
+    "description": "Auto imported from components/Header.vue"
+  },
+  "HomeCarousel": {
+    "description": "Auto imported from components/HomeCarousel.vue"
+  },
+  "IncomeTable": {
+    "description": "Auto imported from components/incomeTable.vue"
+  },
+  "Invoice": {
+    "description": "Auto imported from components/Invoice.vue"
+  },
+  "LeavesChart": {
+    "description": "Auto imported from components/LeavesChart.vue"
+  },
+  "Logo": {
+    "description": "Auto imported from components/Logo.vue"
+  },
+  "MenuItems": {
+    "description": "Auto imported from components/menuItems.vue"
+  },
+  "MenuTable": {
+    "description": "Auto imported from components/menuTable.vue"
+  },
+  "NavBar": {
+    "description": "Auto imported from components/NavBar.vue"
+  },
+  "NewExpenditure": {
+    "description": "Auto imported from components/newExpenditure.vue"
+  },
+  "NewIncome": {
+    "description": "Auto imported from components/newIncome.vue"
+  },
+  "Newstockformtest": {
+    "description": "Auto imported from components/Newstockformtest.vue"
+  },
+  "OrdersChart": {
+    "description": "Auto imported from components/OrdersChart.vue"
+  },
+  "OrdersTable": {
+    "description": "Auto imported from components/OrdersTable.vue"
+  },
+  "PlanForm": {
+    "description": "Auto imported from components/PlanForm.vue"
+  },
+  "ReqInfo": {
+    "description": "Auto imported from components/ReqInfo.vue"
+  },
+  "SignupForm": {
+    "description": "Auto imported from components/signupForm.vue"
+  },
+  "SocialMediaBtn": {
+    "description": "Auto imported from components/socialMediaBtn.vue"
+  },
+  "Table": {
+    "description": "Auto imported from components/Table.vue"
+  },
+  "TestUpdel": {
+    "description": "Auto imported from components/TestUpdel.vue"
+  },
+  "TopBar": {
+    "description": "Auto imported from components/TopBar.vue"
+  },
+  "TransactionForm": {
+    "description": "Auto imported from components/TransactionForm.vue"
+  },
+  "TransactionTable": {
+    "description": "Auto imported from components/TransactionTable.vue"
+  },
+  "VendorsForm": {
+    "description": "Auto imported from components/VendorsForm.vue"
+  },
+  "VendorsTable": {
+    "description": "Auto imported from components/VendorsTable.vue"
+  },
+  "DesktopNav": {
+    "description": "Auto imported from components/Desktop/Nav.vue"
+  }
+}
